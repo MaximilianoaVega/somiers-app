@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 
+
 function Header() {
   const headerStyle = {
     backgroundColor: '#166866',
@@ -16,7 +17,7 @@ function Header() {
   return (
     <nav className="navbar navbar-expand-lg px-4" style={headerStyle}>
       <a className="navbar-brand text-white" href="#" >
-        <img src="logoSomier.png" alt="Logo" style={{ height: '40px' }} />
+        <img src={`${process.env.PUBLIC_URL}/logoSomier.png`} alt="Logo" style={{ height: '40px' }} />
         
       </a>
       <div className="ms-auto">

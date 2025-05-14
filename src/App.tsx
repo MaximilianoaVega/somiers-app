@@ -14,6 +14,7 @@ function App() {
       <Routes>
         <Route path='/' element={<MainContent/>}/>
         <Route path='/contact' element={<ContactPage/>}/>
+        
       </Routes>
       <Footer/>
     </div>
