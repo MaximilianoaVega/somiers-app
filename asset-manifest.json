@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/somiers-app/static/css/main.e6c13ad2.css",
+    "main.js": "/somiers-app/static/js/main.15da2ff5.js",
+    "static/js/453.36496ce6.chunk.js": "/somiers-app/static/js/453.36496ce6.chunk.js",
+    "index.html": "/somiers-app/index.html",
+    "main.e6c13ad2.css.map": "/somiers-app/static/css/main.e6c13ad2.css.map",
+    "main.15da2ff5.js.map": "/somiers-app/static/js/main.15da2ff5.js.map",
+    "453.36496ce6.chunk.js.map": "/somiers-app/static/js/453.36496ce6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.15da2ff5.js"
+  ]
+}
